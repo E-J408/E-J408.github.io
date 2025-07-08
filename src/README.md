@@ -3,7 +3,8 @@ home: true
 layout: Blog
 icon: house
 title: EJ's Blog
-heroImage: assets\favicon.ico
+heroImage: /assets/favicon.ico
+bgImage: /assets/images/background.jpg
 
 heroText: EJ的个人博客
 heroFullScreen: true
